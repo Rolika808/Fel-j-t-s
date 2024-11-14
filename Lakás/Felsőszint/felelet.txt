@@ -1,0 +1,4 @@
+1.euro,dollar,forint
+
+
+2.Microsoft Bing
